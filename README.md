@@ -1,15 +1,7 @@
 # Google Earth Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-googleearth.png)](https://travis-ci.org/boxen/puppet-googleearth)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-Install [Google Earth](http://earth.google.com), and get the world’s geographic information at your fingertips.
-
-## Usage
-
-```puppet
-include googleearth
-```
-
-## Required Puppet Modules
-
-* `boxen`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
